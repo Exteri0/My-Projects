@@ -18,4 +18,7 @@ Provide the user information(firstname,lastname and password).
 Finally sign in with it with the '/users/signin' [POST].
 And store the resulting token to use it in any other requests you'd want to.
 Also the port for this project is 5432.
-I hope my project is satisfactory, Thank you.
+
+Note: You're going to have to create your enviroment variables with the database name, user and password that you've set up.
+You also need to install the node modules listed in the package.json file if you don't have them already.
+Thank you.
